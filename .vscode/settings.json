@@ -1,0 +1,4 @@
+{
+  "vetur.validation.templateProps": true,
+  "prettier.trailingComma": "es5"
+}

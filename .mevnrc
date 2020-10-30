@@ -1,0 +1,8 @@
+{
+  "name": "ts-sql-vue",
+  "template": "Default",
+  "isConfigured": {
+    "client": true,
+    "server": true
+  }
+}
